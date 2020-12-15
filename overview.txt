@@ -1,0 +1,5 @@
+Tic Tac Toe
+
+- Both players will be automatic, random numbers
+- Winner should be announced as soon as 1 wins
+- There should be an option for restart
